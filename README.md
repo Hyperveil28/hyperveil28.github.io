@@ -1,1 +1,0 @@
-# Making a resume project
